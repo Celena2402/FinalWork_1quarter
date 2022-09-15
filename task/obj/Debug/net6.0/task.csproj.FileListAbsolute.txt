@@ -1,0 +1,15 @@
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\bin\Debug\net6.0\task.exe
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\bin\Debug\net6.0\task.deps.json
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\bin\Debug\net6.0\task.runtimeconfig.json
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\bin\Debug\net6.0\task.dll
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\bin\Debug\net6.0\task.pdb
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.dll
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\refint\task.dll
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.pdb
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+E:\Обучение\обучение Аналитик\5. Итоговая работа 1 четверть\FinalWork_1quarter\task\obj\Debug\net6.0\ref\task.dll
